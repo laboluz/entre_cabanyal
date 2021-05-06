@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.0.2
+Name=EntreCabanyal
+Type=Application
+Terminal=false
+Exec=/home/laboluz/Development/of_v0.11.2_linux64gcc6_release/apps/laboluz/entreCabanyal/bin/entreCabanyal
+Categories=AudioVideo;Audio;Development
